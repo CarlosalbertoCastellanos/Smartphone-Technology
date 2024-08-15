@@ -1,0 +1,21 @@
+.accordion-container {
+    width: 100%;
+    overflow: hidden;
+}
+
+.accordion-slider {
+    display: flex;
+    transition: transform 1s ease-in-out;
+    width: 100%;
+}
+
+.accordion-item {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+.accordion-item img {
+    width: 100%;
+    height: 50vh;
+    object-fit: scale-down;
+}

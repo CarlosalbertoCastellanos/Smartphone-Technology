@@ -1,0 +1,51 @@
+:root {
+    --primary-color: #007BFF;
+    --secondary-color: #28A745;
+    --background-color: #F8F9FA;
+    --text-color-primary: #343A40;
+    --text-color-secondary: #6C757D;
+    --alert-color-warning: #FFC107;
+    --alert-color-danger: #DC3545;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color-primary);
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: var(--primary-color);
+}
+
+a {
+    color: var(--secondary-color);
+    text-decoration: none;
+}
+
+button {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button-delete {
+    background-color: var(--alert-color-danger);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: var(--secondary-color);
+}

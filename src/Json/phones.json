@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "iPhone 13",
+    "marca": "Apple",
+    "precio": "$2.682.699",
+    "imagen": "/src/assets/iphone/image.png",
+    "descripcion": "iPhone 13. Sistema de dos cámaras. Chip A15 Bionic superrápido. Batería para todo el día. Diseño resistente. Y una espectacular pantalla Super Retina XDR."
+  },
+  {
+    "id": 2,
+    "nombre": "Galaxy S24",
+    "marca": "Samsung",
+    "precio": "$3.224.925",
+    "imagen": "/src/assets/samsumg/Galaxy.jpg",
+    "descripcion": "El último modelo de celular Samsung es el Galaxy S24 Ultra. Este teléfono inteligente de gama alta fue presentado en febrero de 2024 y ofrece una serie de características innovadoras y la integración de la Inteligencia Artificial."
+  },
+  {
+    "id": 3,
+    "nombre": "Pixel 9 pro",
+    "marca": "Google",
+    "precio": "$2.999.000",
+    "imagen": "/src/assets/pixel/pixel.jpeg",
+    "descripcion": "El Pixel 9 Pro equipa una pantalla de 6,24 pulgadas de diagonal, que se eleva hasta las 6,7 pulgadas en el caso del Pixel 9 Pro Fold. En ambos casos, hablamos de un panel OLED LTPO al que Google se refiere como Super Actua Display, con una resolución Quad HD+ y un brillo máximo que puede alcanzar los 3000 nits."
+  },
+  {
+    "id": 4,
+    "nombre": "p60 pro",
+    "marca": "Huawei",
+    "precio": "$2.999.000",
+    "imagen": "/src/assets/huawei/Huawei.jpeg",
+    "descripcion": "Este exquisito smartphone adopta un exclusivo diseño de textura perlada1 que lo hace brillar como un ornamento atemporal, y confiere un patrón distintivo a cada teléfono con su reluciente exterior Perla Rococó, dejando que la elegancia se exprese por completo en todo momento."
+  },
+  {
+    "id": 5,
+    "nombre": "Y38",
+    "marca": "Vivo",
+    "precio": "$1.000.000",
+    "imagen": "/src/assets/vivo/vivo2.jpg",
+    "descripcion": "Calidad es muy buena, el diseño es bonito, su uso y funcionalidad es buena. Pero cabe resaltar que pese a que es un celular de mas de un millón de pesos la pantalla sea HD y no FHD. Es lo único que no me gusta de este equipo."
+  },
+  {
+    "id": 6,
+    "nombre": "Redmi Note 13 Pro",
+    "marca": "Xiaomi",
+    "precio": "$1.549.900",
+    "imagen": "/src/assets/Xiaomi/image.png",
+    "descripcion": "Eleva la captura de tus fotos con el Redmi Note 13 Pro, la joya de la tecnología móvil que elevará tu experiencia a un nivel superior! Con un diseño elegante y características de vanguardia, este dispositivo está diseñado para aquellos que buscan lo mejor en rendimiento y estilo. Sumérgete en colores vibrantes y detalles nítidos con la impresionante pantalla Super AMOLED. Con la tecnología de carga rápida, nunca perderás tiempo esperando."
+  }
+]
